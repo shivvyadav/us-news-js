@@ -1,6 +1,6 @@
 # News App
 
-## simple and interactive News Application built with HTML, CSS, and JavaScript that fetches the latest news headlines using the NewsAPI. Users can browse news articles by categories such as General, Entertainment, Health, Science, Sports, and Technology.
+simple and interactive News Application built with HTML, CSS, and JavaScript that fetches the latest news headlines using the NewsAPI. Users can browse news articles by categories such as General, Entertainment, Health, Science, Sports, and Technology.
 
 ## Features
 
